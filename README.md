@@ -20,7 +20,7 @@ Hvis der ikke står "This branch is up to date ..." skal du helt sikkert trykke 
 Så får du den nyeste udgave.
 
 ### Github Desktop
-Gå ind på dit reposityr i GitHub Desktop, og vælg Branch-menuen (den i midten). Tryk på "upstream/main" og du vil merge ændringer fra den seneste opdatering ind i dit eget repository.
+Gå ind på dit repository i GitHub Desktop, og vælg Branch-menuen (den i midten). Tryk på "upstream/main" og du vil merge ændringer fra den seneste opdatering ind i dit eget repository.
 ![merge upstream/main](githubdesktop-merge-upstream.png)
 
 Så har du også den seneste udgave.
